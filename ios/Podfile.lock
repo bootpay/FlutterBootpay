@@ -1,0 +1,20 @@
+PODS:
+  - CryptoSwift (0.14.0)
+  - SwiftyBootpay (2.1.18):
+    - CryptoSwift
+
+DEPENDENCIES:
+  - SwiftyBootpay (~> 2.1.18)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CryptoSwift
+    - SwiftyBootpay
+
+SPEC CHECKSUMS:
+  CryptoSwift: 35a10419f4dbf0619c13f8c1c180037e115323fa
+  SwiftyBootpay: d05eedd055094c0490f99bd6f850085ae352bea7
+
+PODFILE CHECKSUM: d199997141cf9fd126a3e184b05d85a61ab6e814
+
+COCOAPODS: 1.6.1
