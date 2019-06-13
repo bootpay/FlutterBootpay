@@ -9,7 +9,7 @@ import SwiftyBootpay
     didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?
   ) -> Bool {
     GeneratedPluginRegistrant.register(with: self)
-    BootpayAnalytics.sharedInstance.appLaunch(application_id: "5a52cc39396fa6449880c0f0") //
+    BootpayAnalytics.sharedInstance.appLaunch(application_id: "5b8f6a4d396fa665fdc2b5e9") //
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
     

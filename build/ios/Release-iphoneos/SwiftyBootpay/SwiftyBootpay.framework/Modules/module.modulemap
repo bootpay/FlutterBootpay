@@ -1,0 +1,11 @@
+framework module SwiftyBootpay {
+  umbrella header "SwiftyBootpay-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftyBootpay.Swift {
+    header "SwiftyBootpay-Swift.h"
+    requires objc
+}
